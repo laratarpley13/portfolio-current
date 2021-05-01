@@ -96,6 +96,7 @@ header a {
     flex-basis: 30%;
     margin: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
+    line-height: 18px;
 }
 
 .project .image {
