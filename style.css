@@ -32,6 +32,7 @@ header a {
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: column;
+    font-size: 19px;
 }
 
 .about .flex-item {
@@ -60,7 +61,7 @@ header a {
     padding: 10px;
     margin-left: 15px;
     margin-right: 15px;
-    line-height: 15pt;
+    line-height: 18pt;
 }
 
 @media screen and (min-width: 900px) {
